@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AD7272831FB8F1A900501048 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7272821FB8F1A900501048 /* MapViewController.swift */; };
 		ADA2F3A21FAFADE3004FFCA2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA2F3A11FAFADE3004FFCA2 /* AppDelegate.swift */; };
 		ADA2F3A41FAFADE3004FFCA2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA2F3A31FAFADE3004FFCA2 /* ViewController.swift */; };
 		ADA2F3A71FAFADE3004FFCA2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADA2F3A51FAFADE3004FFCA2 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AD7272821FB8F1A900501048 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		ADA2F39E1FAFADE3004FFCA2 /* WorldTrotter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WorldTrotter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADA2F3A11FAFADE3004FFCA2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ADA2F3A31FAFADE3004FFCA2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				ADA2F3A81FAFADE3004FFCA2 /* Assets.xcassets */,
 				ADA2F3AA1FAFADE3004FFCA2 /* LaunchScreen.storyboard */,
 				ADA2F3AD1FAFADE3004FFCA2 /* Info.plist */,
+				AD7272821FB8F1A900501048 /* MapViewController.swift */,
 			);
 			path = WorldTrotter;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 				ADA2F3A41FAFADE3004FFCA2 /* ViewController.swift in Sources */,
 				ADA2F3B41FAFB4A3004FFCA2 /* ConversionViewController.swift in Sources */,
 				ADA2F3A21FAFADE3004FFCA2 /* AppDelegate.swift in Sources */,
+				AD7272831FB8F1A900501048 /* MapViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
